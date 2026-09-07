@@ -1,0 +1,47 @@
+{
+  "comment": "Computational continuation of sat_3(n) for n=41..46. Exhaustive backtrack as in scripts/sat3_cert.py. Not Lean. n=47..48 not finished.",
+  "sat3": [
+    {
+      "n": 41,
+      "sat": 8,
+      "pair_lb": 6,
+      "example": [1, 2, 5, 6, 16, 17, 20, 21],
+      "n_min_examples": null
+    },
+    {
+      "n": 42,
+      "sat": 8,
+      "pair_lb": 6,
+      "example": [1, 2, 5, 6, 17, 18, 21, 22],
+      "n_min_examples": null
+    },
+    {
+      "n": 43,
+      "sat": 8,
+      "pair_lb": 6,
+      "example": [1, 2, 5, 6, 17, 18, 21, 22],
+      "n_min_examples": null
+    },
+    {
+      "n": 44,
+      "sat": 8,
+      "pair_lb": 6,
+      "example": [2, 3, 6, 7, 18, 19, 22, 23],
+      "n_min_examples": null
+    },
+    {
+      "n": 45,
+      "sat": 8,
+      "pair_lb": 6,
+      "example": [3, 4, 7, 8, 19, 20, 23, 24],
+      "n_min_examples": null
+    },
+    {
+      "n": 46,
+      "sat": 8,
+      "pair_lb": 6,
+      "example": [4, 5, 8, 9, 20, 21, 24, 25],
+      "n_min_examples": null
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.lake/
+lean/.lake/
+**/build/
+*.olean
+/tmp/
+notes/wizard-run.log
+__pycache__/
+*.pyc
+.DS_Store
+.wizard/
+.wizard/

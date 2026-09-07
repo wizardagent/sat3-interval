@@ -1,0 +1,10 @@
+name = "Sat3"
+version = "0.1.0"
+defaultTargets = ["Sat3"]
+
+[leanOptions]
+pp.unicode.fun = true
+relaxedAutoImplicit = false
+
+[[lean_lib]]
+name = "Sat3"
